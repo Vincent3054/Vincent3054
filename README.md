@@ -12,8 +12,8 @@ My name is Sky Chen and I'm a software developer/DevOps engineer. I'm from taiwa
  <!-- - 🤔 I'm looking for help with Typescript and React -->
  - 💬 Ask me about C#, 3D art (including voxel art), donuts and robots
  - 📫 How to reach me: 
-      - [mail](ok96305@gmail.com)  
-      - [other]()
+      - [Mail](ok96305@gmail.com)  
+      - [My Website](https://reactgatsbypersonalwebsite.gatsbyjs.io/resume/)
  - 😄 Pronouns: he/him
  <!-- - ⚡ Fun fact: [object Object] -->
 
