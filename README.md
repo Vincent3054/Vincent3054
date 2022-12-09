@@ -1,27 +1,35 @@
 <!-- Heading -->
-<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Sky Chen</h3>
+<h3 align="center">
+  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> 
+  Hi there! I'm Sky Chen
+</h3>
 
 ---
-
  <!-- About section -->
-My name is Sky Chen and I'm a software developer/DevOps engineer. I'm from taiwan, living in taipei working at Chailease . You can find me on mail, or on LinkedIn.
+My name is Sky Chen and I'm a software developer/DevOps engineer. I'm from taiwan, living in taipei working at Chailease . You can find me on [maul](ok96305@gmail.com), or on [LinkedIn](https://linkedin.com/in/建成-陳-6438201a0).
 
- - 🔭 I'm currently working on maintaining [jsoning](https://github.com/khalby786/jsoning)!
- - 🌱 I'm currently learning Rust, TypeScript (again) and other cool stuff!
- <!-- - 👯 I'm looking to collaborate on full stack web apps! -->
- <!-- - 🤔 I'm looking for help with Typescript and React -->
- - 💬 Ask me about C#, 3D art (including voxel art), donuts and robots
- - 📫 How to reach me: 
-      - [Mail](ok96305@gmail.com)  
-      - [My Website](https://reactgatsbypersonalwebsite.gatsbyjs.io/resume/)
+ - 🔭 I'm currently working on maintaining [zingala](https://www.zingala.com/)
+ - 🌱 I'm currently learning Angular, DevOps and other cool stuff!
+ - 🤔 I'm looking for help with UnitTest and TDD
+ - 💬 Ask me about C# and Devops
  - 😄 Pronouns: he/him
- <!-- - ⚡ Fun fact: [object Object] -->
 
-### &#x270d; Blog & Writing
+### Connect with me 
+  <p align="center">
+    <a href="https://reactgatsbypersonalwebsite.gatsbyjs.io/resume/"><img src="https://img.shields.io/badge/personal%20website-404040.svg?style=for-the-badge&logo=Gatsby&logoColor=white"/></a>
+    <a href="mailto:ok96305@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+    <a href="https://instagram.com/cheng_chen_sky"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+    <a href="https://linkedin.com/in/建成-陳-6438201a0"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  </p>
+ <!-- Conecct section: END -->
+ 
+  <!-- GitHub section -->
+
+<!-- ### Blog & Writing -->
 
 <!-- Apart from coding, I also maintain a blog - you can find my articles on my website at [martinheinz.dev](https://martinheinz.dev/) as well as on [Medium](https://medium.com/@martin.heinz) and [DEV.to](https://dev.to/martinheinz). -->
 
-A sample of my recent articles:
+<!-- A sample of my recent articles: -->
 
 <!-- BLOG-POST-LIST:START -->
 <!-- - [Getting Started with Mastodon API in Python](https://martinheinz.dev/blog/86)
@@ -33,19 +41,7 @@ BLOG-POST-LIST:END -->
 
 
 <!-- Conecct section -->
-
-<h3>Connect with me </h3>
-  <p align="center">
-    <a href="https://reactgatsbypersonalwebsite.gatsbyjs.io/resume/"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
-    <a href="mailto:ok96305@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
-    <a href="https://instagram.com/cheng_chen_sky"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-    <a href="https://linkedin.com/in/建成-陳-6438201a0"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  </p>
- <!-- Conecct section: END -->
- 
-  <!-- GitHub section -->
-
- ###  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
+ ###  My GitHub Stats
  
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
