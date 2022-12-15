@@ -8,7 +8,7 @@
  <!-- About section -->
 My name is Sky Chen and I'm a software developer/DevOps engineer. I'm from taiwan, living in taipei working at Chailease . You can find me on [mail](ok96305@gmail.com), or on [LinkedIn](https://linkedin.com/in/建成-陳-6438201a0).
 
- - 🔭 I'm currently working on maintaining [zingala](https://www.zingala.com/)
+ - 🔭 I'm currently working on maintaining BNPL [zingala](https://www.zingala.com/)
  - 🌱 I'm currently learning Angular, DevOps and other cool stuff
  - 🤔 I'm looking for help with UnitTest and TDD
  - 💬 Ask me about C# and Devops
