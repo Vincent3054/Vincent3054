@@ -1,18 +1,16 @@
 <!-- Heading -->
 <h3 align="center">
   <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> 
-  Hi there! I'm Sky Chen
+  Hi there!
 </h3>
 
 ---
  <!-- About section -->
-My name is Sky Chen and I'm a software developer/DevOps engineer. I'm from taiwan, living in taipei working at Chailease . You can find me on [mail](ok96305@gmail.com), or on [LinkedIn](https://linkedin.com/in/建成-陳-6438201a0).
+I'm Sky Chen, a creative developer passionate about C#, JavaScript, DevOps and Agile.
 
- - 🔭 I'm currently working on maintaining [zingala](https://www.zingala.com/) (BNPL)
- - 🌱 I'm currently learning Angular, DevOps and other cool stuff
- - 🤔 I'm looking for help with UnitTest and TDD
- - 💬 Ask me about C# and Devops
- - 😄 Pronouns: he/him
+I currently work as a Software Engineer at Chailease on maintaining [zingala](https://www.zingala.com/) (BNPL).
+
+Any questions, or want to get involved, please get in touch. Thanks for visiting!
 
 ### Connect with me 
   <p align="center">
