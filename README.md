@@ -6,7 +6,7 @@
 
 ---
  <!-- About section -->
-I'm Sky Chen, a creative developer passionate about C#, JavaScript, DevOps and Agile.
+I'm Sky Chen, a creative developer passionate about C#, DevOps and Agile.
 
 I currently work as a Software Engineer at Chailease on maintaining [zingala](https://www.zingala.com/) (BNPL).
 
