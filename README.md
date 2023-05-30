@@ -12,10 +12,6 @@ I currently work as a Software Engineer at Chailease on maintaining [zingala](ht
 
 Any questions, or want to get involved, please get in touch. Thanks for visiting!
 
-# Blog posts
-<!-- BLOG-POST-LIST:START \-->
-<!-- BLOG-POST-LIST:END \-->
-
 ### Connect with me 
   <p align="center">
     <a href="https://reactgatsbypersonalwebsite.gatsbyjs.io/resume/"><img src="https://img.shields.io/badge/personal%20website-404040.svg?style=for-the-badge&logo=Gatsby&logoColor=white"/></a>
@@ -43,6 +39,11 @@ BLOG-POST-LIST:END -->
 
 
 <!-- Conecct section -->
+
+ ### Blog posts
+<!-- BLOG-POST-LIST:START \-->
+<!-- BLOG-POST-LIST:END \-->
+
  ###  My GitHub Stats
  
 ![](./profile-3d-contrib/profile-green-animate.svg)
