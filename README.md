@@ -30,18 +30,11 @@ Any questions, or want to get involved, please get in touch. Thanks for visiting
 <!-- A sample of my recent articles: -->
 
 <!-- BLOG-POST-LIST:START -->
-<!-- - [Getting Started with Mastodon API in Python](https://martinheinz.dev/blog/86)
-- [Backup-and-Restore of Containers with Kubernetes Checkpointing API](https://martinheinz.dev/blog/85)
-- [Getting Started with Google APIs in Python](https://martinheinz.dev/blog/84)
-- [Python CLI Tricks That Don&#39;t Require Any Code Whatsoever](https://martinheinz.dev/blog/83)
-BLOG-POST-LIST:END -->
-<!-- About section: END -->
-
-
-<!-- Conecct section -->
-
- ### Blog posts
-<!-- BLOG-POST-LIST:START \-->
+- [[AI]NijiJourney：史上最強的二次元 AI 繪圖工具](https://Vincent3054.github.io/post/10minute/nijijourney-ai-artist/)
+- [[AI]MidJourney：如何用AI繪圖在10分鐘內創造出令人驚豔的作品](https://Vincent3054.github.io/post/10minute/midjourney-ai-artist/)
+- [[AI]Bing Image Creator：微軟推出全新免費AI繪圖工具](https://Vincent3054.github.io/post/10minute/ai-bing-image-creator/)
+- [[AI]ChatGPT：付費版「ChatGPT Plus」，月繳20美元！服務差在哪？](https://Vincent3054.github.io/post/10minute/ai-chatgpt-gptplus/)
+- [[AI]ChatGPT：GPT-4登場！OpenAI這次新增哪些功能？](https://Vincent3054.github.io/post/10minute/ai-chatgpt-gpt4/)
 <!-- BLOG-POST-LIST:END \-->
 
  ###  My GitHub Stats
