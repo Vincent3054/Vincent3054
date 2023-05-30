@@ -28,7 +28,7 @@ Any questions, or want to get involved, please get in touch. Thanks for visiting
 <!-- Apart from coding, I also maintain a blog - you can find my articles on my website at [martinheinz.dev](https://martinheinz.dev/) as well as on [Medium](https://medium.com/@martin.heinz) and [DEV.to](https://dev.to/martinheinz). -->
 
 <!-- A sample of my recent articles: -->
-
+### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [[AI]NijiJourney：史上最強的二次元 AI 繪圖工具](https://Vincent3054.github.io/post/10minute/nijijourney-ai-artist/)
 - [[AI]MidJourney：如何用AI繪圖在10分鐘內創造出令人驚豔的作品](https://Vincent3054.github.io/post/10minute/midjourney-ai-artist/)
