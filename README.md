@@ -30,11 +30,11 @@ Any questions, or want to get involved, please get in touch. Thanks for visiting
 <!-- A sample of my recent articles: -->
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[Azure]Azure Blob Storage介紹及案例](https://Vincent3054.github.io/post/notes/csharp-generic-type-constraint/)
 - [[AI]NijiJourney：史上最強的二次元 AI 繪圖工具](https://Vincent3054.github.io/post/10minute/nijijourney-ai-artist/)
 - [[AI]MidJourney：如何用AI繪圖在10分鐘內創造出令人驚豔的作品](https://Vincent3054.github.io/post/10minute/midjourney-ai-artist/)
 - [[AI]Bing Image Creator：微軟推出全新免費AI繪圖工具](https://Vincent3054.github.io/post/10minute/ai-bing-image-creator/)
 - [[AI]ChatGPT：付費版「ChatGPT Plus」，月繳20美元！服務差在哪？](https://Vincent3054.github.io/post/10minute/ai-chatgpt-gptplus/)
-- [[AI]ChatGPT：GPT-4登場！OpenAI這次新增哪些功能？](https://Vincent3054.github.io/post/10minute/ai-chatgpt-gpt4/)
 <!-- BLOG-POST-LIST:END \-->
 
  ###  My GitHub Stats
