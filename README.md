@@ -55,7 +55,8 @@ Any questions, or want to get involved, please get in touch. Thanks for visiting
    <br>
 
    [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Vincent3054&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  
+   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vincent3054&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 </details>
 
 <!-- GitHub section: END -->
