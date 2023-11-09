@@ -14,7 +14,7 @@ Any questions, or want to get involved, please get in touch. Thanks for visiting
 
 ### Connect with me 
   <p align="center">
-    <a href="https://reactgatsbypersonalwebsite.gatsbyjs.io/resume/"><img src="https://img.shields.io/badge/personal%20website-404040.svg?style=for-the-badge&logo=Gatsby&logoColor=white"/></a>
+    <a href="https://rad-gaufre-beb6ed.netlify.app/resume/"><img src="https://img.shields.io/badge/personal%20website-404040.svg?style=for-the-badge&logo=Gatsby&logoColor=white"/></a>
     <a href="mailto:ok96305@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
     <a href="https://instagram.com/cheng_chen_sky"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
     <a href="https://linkedin.com/in/建成-陳-6438201a0"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
