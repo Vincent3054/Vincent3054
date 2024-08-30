@@ -30,7 +30,7 @@ Any questions, or want to get involved, please get in touch. Thanks for visiting
 <!-- A sample of my recent articles: -->
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Code Smells 程式碼異味](https://Vincent3054.github.io/post/notes/codesmells/)
+- [[Other]Code Smells 程式碼異味](https://Vincent3054.github.io/post/notes/codesmells/)
 - [[Other]Visual Studio 2022 開發工具大補帖](https://Vincent3054.github.io/post/notes/visualstudio2022/)
 - [[FrontEnd]輕鬆打造漂亮表單：從Element到Style的實用技巧](https://Vincent3054.github.io/post/notes/formelementandformstyle/)
 - [[Azure]Azure Blob Storage介紹及案例](https://Vincent3054.github.io/post/notes/azure-blob-storage/)
